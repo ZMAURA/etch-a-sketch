@@ -1,5 +1,5 @@
 # etch-a-sketch
 
-This project is "drawing from pixels" or in this case divs, I created a createGrid function which passes a number from an input or uses its default(16). It will create a div will class *grid* and append it to container.
+This project involves creating a "drawing from pixels" effect using divs instead of actual pixels. To achieve this, I developed a createGrid function that takes a number from an input or uses a default value of 16. This function creates a div with the class grid and appends it to a container.
 
-Using createGrid function has two for loops which create *grid* class and *grid-style*, the second being the color that is be over written to. 
+To create the grid class and grid-style class, the createGrid function utilizes two for loops. The first loop creates the grid class, while the second loop defines the color that will be overwritten.
